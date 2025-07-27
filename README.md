@@ -1,6 +1,9 @@
 # house-price-regression
 Predicting house prices based features like location, size, number of rooms...etc using ML
 
+## Dataset
+`Housing.csv` dataset from Kaggle
+
 ## Tools
 - Python
 - Jupyter Notebook
