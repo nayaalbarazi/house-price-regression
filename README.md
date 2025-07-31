@@ -10,7 +10,7 @@ Predicting house prices based features like location, size, number of rooms...et
 - Pandas
 - Numpy
 - Matplotlib, Seaborn
-- Scikit-learn (Linear Regression, Random forest)
+- Scikit-learn (StandardScaler, RandomBoostRegressor)
 
 ## Workflow
 - Data Cleaining and Preprocessing
@@ -20,7 +20,7 @@ Predicting house prices based features like location, size, number of rooms...et
 - Result visualization
 
 ## Results
-- Best model achieved had R^2 Score of 0.91 and RMSE of 21000
+- Best model achieved had R^2 Score of 0.67 and RMSE of 1299386 MAE 959749 (Note that the average price is 4766729)
 
 
 ## Contcact
