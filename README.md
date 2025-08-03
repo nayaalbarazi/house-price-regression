@@ -10,7 +10,7 @@ Predicting house prices based features like location, size, number of rooms...et
 - Pandas
 - Numpy
 - Matplotlib, Seaborn
-- Scikit-learn (StandardScaler, RandomBoostRegressor)
+- Scikit-learn (StandardScaler, RandomForestRegressor)
 
 ## Workflow
 - Data Cleaining and Preprocessing
@@ -25,4 +25,3 @@ Predicting house prices based features like location, size, number of rooms...et
 
 ## Contcact
 Email: nayaalbarazi14@gmail.com
-E
